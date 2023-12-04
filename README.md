@@ -1,6 +1,6 @@
 # jdbc-exercises
 
-##Create a new Maven project named jdbc-exercises.
+Create a new Maven project named jdbc-exercises.
 Create a new GitHub repository named jdbc-exercises.
 If IntelliJ did not create a .gitignore file in the top level of the project, do so now and put the following in the file:
 .DS_Store
